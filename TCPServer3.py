@@ -1,10 +1,7 @@
 """
-    Sample code for Multi-Threaded Server
     Python 3
     Usage: python3 TCPserver3.py localhost 12000
     coding: utf-8
-    
-    Author: Wei Song (Tutor for COMP3331/9331)
 """
 """
 IMPROVEMENTS COULD BE MADE:
