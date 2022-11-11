@@ -2,8 +2,6 @@
     Python 3
     Usage: python3 TCPClient3.py localhost 12000
     coding: utf-8
-    
-    Author: Wei Song (Tutor for COMP3331/9331)
 """
 
 from socket import *
