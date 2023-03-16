@@ -14,7 +14,7 @@ Commmands should be ran in the client terminal
 
 **SCS fileID computationOperation** - computationOperation is either 'MAX, MIN, SUM, AVERAGE'. Server performs the operation on requested fileID
 
-**DTE fileID** - Deletes file with fileID
+**DTE fileID** - Delete file with fileID
 
 **AED** - Lists all the other active devices connected to server
 
