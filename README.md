@@ -8,7 +8,7 @@ Implementation of basic communication between multiple clients and a server thro
 ## Commands
 Commmands should be ran in the client terminal  
 
-**EDG fileID dataAmount** - Generates dataAmount of random numbers in the same directory as the client
+**EDG fileID dataAmount** - Generate dataAmount of random numbers in the same directory as the client
 
 **UED fileID** - Upload a file to the server directory
 
