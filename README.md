@@ -10,7 +10,7 @@ Commmands should be ran in the client terminal
 
 **EDG fileID dataAmount** - Generates dataAmount of random numbers in the same directory as the client
 
-**UED fileID** - Uploads a file to the server directory
+**UED fileID** - Upload a file to the server directory
 
 **SCS fileID computationOperation** - computationOperation is either 'MAX, MIN, SUM, AVERAGE'. Server performs the operation on requested fileID
 
